@@ -1,0 +1,7 @@
+@font-face {
+    font-family: "Inika";
+    src: url('./assets/css/Inika-Regular.ttf');
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
