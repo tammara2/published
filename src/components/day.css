@@ -1,0 +1,15 @@
+.calevent {
+    /* border: 1px solid none; */
+    /* border-radius: 5px; */
+    padding: 5px;
+    margin: 5px;
+    /* font-size: 12px; */
+}
+.calevent:hover {
+    box-shadow: inset 0px 0px 0px 1px gray;
+    box-sizing: border-box;    
+}
+
+.no-margin {
+    margin:0;
+}
